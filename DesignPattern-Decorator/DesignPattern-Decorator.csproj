@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GeleBleue.cs" />
+    <Compile Include="GeleVerte.cs" />
+    <Compile Include="GeleRouge.cs" />
+    <Compile Include="DecorateurPotion.cs" />
+    <Compile Include="Potion.cs" />
+    <Compile Include="PotionSante.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
